@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	}
+
+.op_primario, .it_secund{
+	background:#FFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#666;
+	display:block;
+	padding:5px 5px 5px 30px;
+	/*border:1px #666666 solid;*/
+	cursor:pointer;
+	position:relative;
+	}
+
+.op_secundario{
+	}
+
+.c_blue{
+	background:#03C;
+	display:block;
+	height:10px;
+	width:10px;
+	position:absolute;
+	top:8px;
+	left:10px;
+	}
+
+.c_red{
+	background:#F00;
+	display:block;
+	height:10px;
+	width:10px;
+	position:absolute;
+	top:8px;
+	left:10px;
+	}
+
+.c_green{
+	background:#093;
+	display:block;
+	height:10px;
+	width:10px;
+	position:absolute;
+	top:8px;
+	left:10px;
+	}
+
+.c_orange{
+	background:#F90;
+	display:block;
+	height:10px;
+	width:10px;
+	position:absolute;
+	top:8px;
+	left:10px;
+	}
+
+.c_purple{
+	background:#939;
+	display:block;
+	height:10px;
+	width:10px;
+	position:absolute;
+	top:8px;
+	left:10px;
+	}
+
+.c_magenta{
+	background:#F0F;
+	display:block;
+	height:10px;
+	width:10px;
+	position:absolute;
+	top:8px;
+	left:10px;
+	}
+
+/*.it_secund{
+	cursor:pointer;
+	display:block;
+	padding:5px;
+	}*/
